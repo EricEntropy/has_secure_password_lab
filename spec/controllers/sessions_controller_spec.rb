@@ -1,5 +1,5 @@
 require 'rails_helper'
-
+system('clear')
 RSpec.describe SessionsController, type: :controller do
 
   before do
